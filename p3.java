@@ -16,5 +16,4 @@ public class p3 {
         b.fly();
     }
 }
-Footer
-© 2022 GitHub, Inc.
+
